@@ -19,6 +19,7 @@
   "dependencies": {
     "canvas": "^1.2.3",
     "fluent-ffmpeg": "^2.0.1",
-    "through": "^2.3.7"
+    "through": "^2.3.7",
+    "through2": "^0.6.5"
   }
 }
